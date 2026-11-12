@@ -19,7 +19,7 @@ ksp = "2.3.6"
 playServicesCodeScanner = "16.1.0"
 
 # Nearby connections
-nearby = "19.5.1"
+nearby = "19.3.0"
 
 # Fingerprint
 kotlin_bio = "1.4.0-beta01"
